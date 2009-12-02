@@ -1,0 +1,5 @@
+Start of a full PHP Amazon Mechanical Turk library.  This is certainly not complete.  It was developed as a part of a real working project, but that project only required as much as was done below.  I would love to finish this off, but Mechanical Turk isn't exactly my highest priority right now.
+
+If this can be of use to anyone else, great.
+
+The reason I rolled my own instead of using the other PHP implementations that existed at the time is that I want a good, object-oriented version that provided the same objects that Amazon's REST interface did.  I could not find one at the time I started this, which was well before I added it here.
